@@ -8,7 +8,6 @@ public class JiandeApplication {
 
     public static void main(String[] args) {
 
-
         SpringApplication.run(JiandeApplication.class, args);
     }
 
